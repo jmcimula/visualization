@@ -8,5 +8,6 @@
 
 [Fourth link](http://moderndata.plot.ly/interactive-r-visualizations-with-d3-ggplot2-rstudio/)
 
-[Fifth](http://www.ggobi.org/)
+[Fifth link](http://www.ggobi.org/)
 
+[Polygons with Holes for the Grammar of Graphics](https://github.com/mdsumner/ggpolypath)
