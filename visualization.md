@@ -11,3 +11,9 @@
 [Fifth link](http://www.ggobi.org/)
 
 [Polygons with Holes for the Grammar of Graphics](https://github.com/mdsumner/ggpolypath)
+
+[Visualizing data](http://datascienceplus.com/category/visualizing-data/)
+
+[Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
+
+[Interactive visualizations with R](https://www.r-bloggers.com/interactive-visualizations-with-r-a-minireview/)
