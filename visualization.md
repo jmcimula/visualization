@@ -17,3 +17,7 @@
 [Data Analysis and Visualization Using R](http://varianceexplained.org/RData/)
 
 [Interactive visualizations with R](https://www.r-bloggers.com/interactive-visualizations-with-r-a-minireview/)
+
+[A query language for your API](http://graphql.org/)
+
+[New package graphql: A GraphQL Query Parser](http://ropensci.org/blog/technotes/2016/10/05/graphql-release-10)
