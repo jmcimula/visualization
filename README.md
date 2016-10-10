@@ -2,6 +2,8 @@
 
 A List of ggplot2 extensions 
 
+[artyfarty](http://fishyoperations.com/2016/10/05/introducing-artyfarty.html)
+
 [ggiraph](http://davidgohel.github.io/ggiraph/introduction.html)
 
 [ggstance](https://github.com/lionel-/ggstance)
