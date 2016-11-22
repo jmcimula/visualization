@@ -23,3 +23,5 @@
 [New package graphql: A GraphQL Query Parser](http://ropensci.org/blog/technotes/2016/10/05/graphql-release-10)
 
 [♦Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+[Introducing trelliscopejs](http://ryanhafen.com/blog/trelliscopejs)
